@@ -1,0 +1,15 @@
+{
+	"id": "70e350e8-452b-4b68-8807-4bfde047a42a",
+	"values": [
+		{
+			"key": "companycode",
+			"value": "RS",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-04-25T18:20:43.196Z",
+	"_postman_exported_using": "Postman/11.41.7"
+}
